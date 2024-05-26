@@ -3,4 +3,5 @@ https://discord.gg/bdfd
 
 Siteyi demo izlemek için: 
 https://discord-bot-site-template.vercel.app/
+
 İyi Kullanımlar :>
